@@ -3,7 +3,7 @@
 - 👋 I'm currently working on my discord bot, proton with a fully functional web dashboard
 - 👀 I’m interested in Space, engineering, coding of cource
 - 🌱 I’m currently learning React and other javascript frameworks such as angular, vue and next , i want to learn python for machine learning and kotlin/swift for mobile app development. As well as c/c++, go, rust and assembly for fun
-- 📫 The best way to reach me is on discord in my server - https://discord.gg/eVVc4jJfDa or dms - Atomツ#6969
+- 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
 
@@ -24,6 +24,9 @@
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-instagram.svg" />](https://instagram.com/thereal_atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-discord.svg" />](https://discord.gg/eVVc4jJfDa)
 <br />
+## Projects 
+Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot.
+Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist) which is a website with a list of the top wallpapers in any genre
 ## Technologies
 
 - Backend web development using JavaScript, MongoDB and express 
