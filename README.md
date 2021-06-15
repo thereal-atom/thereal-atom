@@ -24,9 +24,10 @@
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-instagram.svg" />](https://instagram.com/thereal_atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-discord.svg" />](https://discord.gg/eVVc4jJfDa)
 <br />
+
 ## Projects 
-Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot.
-Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist) which is a website with a list of the top wallpapers in any genre
+- Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot.
+- Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist) which is a website with a list of the top wallpapers in any genre
 ## Technologies
 
 - Backend web development using JavaScript, MongoDB and express 
