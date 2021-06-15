@@ -30,15 +30,15 @@
 - General backend development using NodeJS
 - Discord bot development usign DiscordJS
 
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/react.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/node-dot-js.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jquery.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/firebase.svg" />
-<img align="left" alt="icon" width="22px" src="" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/html5-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/css3-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/javascript-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/react-original.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/nodejs-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/mongodb-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/jquery-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/firebase-plain.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/express-original.svg" />
 <!---
 atom-rl/atom-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
