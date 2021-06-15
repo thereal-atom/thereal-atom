@@ -26,7 +26,7 @@
 <br />
 
 ## Projects 
-- Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot.
+- Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot with a fully functional web dashboard.
 - Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist) which is a website with a list of the top wallpapers in any genre
 ## Technologies
 
