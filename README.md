@@ -29,7 +29,7 @@
 - Backend web development using JavaScript, MongoDB and express 
 - Fronend web developmeny using HTML, React and CSS 
 - General backend development using NodeJS
-- Discord bot development usign DiscordJS
+- Discord bot development using DiscordJS
 
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/html5-plain.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/css3-plain.svg" />
