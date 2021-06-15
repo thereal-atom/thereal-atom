@@ -6,6 +6,17 @@
 - 📫 The best way to reach me is on discord in my server - https://discord.gg/eVVc4jJfDa or dms - Atomツ#6969
 
 ## Connect with me:
+
+> - [Github:](https://github.com/thereal-atom) thereal-atom
+> - [Reddit:](https://www.reddit.com/user/thereal-atom) thereal-atom
+> - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
+> - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
+> - [Stackoverflow:](https://stackoverflow.com/users/16217490/atom) atom
+> - [Pinterest:](https://pinterest.com/therealatom) therealatom
+> - [Keybase:](https://keybase.io/realatom) realatom
+> - [Instagram:](https://www.instagram.com/thereal_atom) thereal_atom
+> - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
+
 [<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />](https://atom-dev.me)
 [<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ)
 [<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/reddit.svg" />](https://www.reddit.com/user/BigBadSlothYT)
