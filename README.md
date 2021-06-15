@@ -13,6 +13,12 @@
 [<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/16217490/atom)
 <br />
 ## Technologies
+
+-Backend web development using JavaScript, MongoDB and express
+-Fronend web developmeny using HTML, React and CSS
+-General backend development using NodeJS
+-Discord bot development usign DiscordJS
+
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" />
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" />
