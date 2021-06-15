@@ -38,7 +38,6 @@
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/jquery.svg" />
 <img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/firebase.svg" />
-<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" />
 <!---
 atom-rl/atom-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
