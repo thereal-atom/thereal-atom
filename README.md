@@ -14,8 +14,8 @@
 <br />
 ## Technologies
 
--Backend web development using JavaScript, MongoDB and express
--Fronend web developmeny using HTML, React and CSS
+-Backend web development using JavaScript, MongoDB and express \n
+-Fronend web developmeny using HTML, React and CSS \n
 -General backend development using NodeJS
 -Discord bot development usign DiscordJS
 
