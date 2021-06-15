@@ -7,7 +7,6 @@
 
 ## Connect with me:
 
-> - [Github:](https://github.com/thereal-atom) thereal-atom
 > - [Reddit:](https://www.reddit.com/user/thereal-atom) thereal-atom
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
@@ -17,11 +16,13 @@
 > - [Instagram:](https://www.instagram.com/thereal_atom) thereal_atom
 > - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
 
-[<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />](https://twitter.com/thereal_atom)
-[<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ)
-[<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/reddit.svg" />](https://www.reddit.com/user/BigBadSlothYT)
-[<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />](https://discord.gg/eVVc4jJfDa)
-[<img align="left" alt="icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/16217490/atom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-reddit.svg" />](https://www.reddit.com/user/thereal-atom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-twitter.svg" />](https://twitter.com/thereal_atom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-youtube-play-button.svg" />](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-stack-overflow.svg" />](https://stackoverflow.com/users/16217490/atom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-pinterest.svg" />](https://pinterest.com/therealatom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-instagram.svg" />](https://instagram.com/thereal_atom)
+[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-discord.svg" />](https://discord.gg/eVVc4jJfDa)
 <br />
 ## Technologies
 
