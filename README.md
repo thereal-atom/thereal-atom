@@ -6,7 +6,7 @@
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
-
+[Website](https://atom-dev.me) for my portfolio: atom-dev.me
 > - [Reddit:](https://www.reddit.com/user/thereal-atom) thereal-atom
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
