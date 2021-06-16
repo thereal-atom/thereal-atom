@@ -30,7 +30,8 @@
 - Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist) which is a website with a list of the top wallpapers in any genre
 
 ## Past projects
-- [Unichat](https://github.com/thereal-atom/unichat), a simpele messanger clone using premade chat engine as well as firebase and Googles OAuth.
+- [Unichat](https://github.com/thereal-atom/unichat), a simple messanger clone using premade chat engine as well as firebase and Googles OAuth.
+- [Generics](https://github.com/thereal-atom/generics), a website for a band with stripe payement processing, built with Express, NodeJS, EJS, CSS and HTML
 
 ## Technologies
 
