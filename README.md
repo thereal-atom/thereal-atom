@@ -48,7 +48,12 @@
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/mongodb-plain.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/jquery-plain.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/firebase-plain.svg" />
-<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/express-original.svg" />
+<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/express-original.svg" /><br /><br />
+
+![thereal-atom's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereal-atom&show_icons=true&theme=tokyonight)<br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereal-atom&layout=compact&theme=tokyonight)
+
+
 <!---
 atom-rl/atom-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
