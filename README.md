@@ -32,6 +32,8 @@
 ## Past projects
 - [Unichat](https://github.com/thereal-atom/unichat), a simple messanger clone using premade chat engine as well as firebase and Googles OAuth.
 - [Generics](https://github.com/thereal-atom/generics), a website for a band with stripe payement processing, built with Express, NodeJS, EJS, CSS and HTML
+- [Advice](https://github.com/thereal-atom/advice), a website which fetches data from an api to shows random quotes, built using React and ChartJS.
+- [Covid19 Tracker](https://github.com/thereal-atom/covid19tracker), website which tracks stats for Covid19 by fetching data from an API and displays them in a chart, built using Javascript, React and CSS
 
 ## Technologies
 
