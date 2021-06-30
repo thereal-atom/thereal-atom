@@ -6,7 +6,7 @@
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
-[Website](https://atom-dev.me) for my portfolio: atom-dev.me
+[Website](https://atom-dev.me) for my portfolio: https://atom-dev.me
 > - [Reddit:](https://www.reddit.com/user/thereal-atom) thereal-atom
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
@@ -37,9 +37,9 @@
 
 ## Technologies
 
-- Backend web development using JavaScript, MongoDB and express 
-- Fronend web developmeny using HTML, React and CSS 
-- General backend development using NodeJS
+- Backend web development using JavaScript, MongoDB, Express and Firebase 
+- Fronend web development using HTML, React and CSS 
+- General backend development using NodeJS 
 - Discord bot development using DiscordJS
 
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/html5-plain.svg" />
