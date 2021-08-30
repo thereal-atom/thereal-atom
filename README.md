@@ -28,6 +28,7 @@
 ## Current Projects 
 - Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot with a fully functional web dashboard.
 - Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist), website with a list of the top wallpapers in any genre
+- [AlertBot](https://github.com.thereal-atom) is a website to make alerting easier and seemless
 
 ## Past projects
 - [Unichat](https://github.com/thereal-atom/unichat), a simple messanger clone using premade chat engine as well as firebase and Googles OAuth.
