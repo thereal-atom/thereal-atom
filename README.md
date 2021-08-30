@@ -7,12 +7,9 @@
 
 ## Connect with me:
 [Website](https://atom-dev.me) for my portfolio: https://atom-dev.me
-> - [Reddit:](https://www.reddit.com/user/thereal-atom) thereal-atom
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
 > - [Stackoverflow:](https://stackoverflow.com/users/16217490/atom) atom
-> - [Pinterest:](https://pinterest.com/therealatom) therealatom
-> - [Keybase:](https://keybase.io/realatom) realatom
 > - [Instagram:](https://www.instagram.com/thereal_atom) thereal_atom
 > - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
 
