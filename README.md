@@ -1,8 +1,8 @@
 # Hey there, I'm Atomツ
-### I'm a 14 year old full stack developer
+### I'm a 15 year old full stack developer
 - 👋 I'm currently working on my discord bot, proton with a fully functional web dashboard
-- 👀 I’m interested in Space, engineering, coding of cource
-- 🌱 I’m currently learning React and other javascript frameworks such as angular, vue and next , i want to learn python for machine learning and kotlin/swift for mobile app development. As well as c/c++, go, rust and assembly for fun
+- 👀 I’m interested in Space, engineering, coding of course
+- 🌱 I’m currently learning Svelte, typescript, go and assembly, i want to learn python, rust c/c++, c#, Java and R.
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
