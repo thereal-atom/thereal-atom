@@ -25,20 +25,18 @@
 ## Current Projects 
 - Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot with a fully functional web dashboard.
 - Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist), website with a list of the top wallpapers in any genre
-- [AlertBot](https://github.com/thereal-atom/alertbot) is a website to make alerting easier and seemless
-- [openai.js](https://github.com/thereal-atom/openai.js) a simplified nodejs wrapper for the openAI API using the GPT-3 model
+- [Tempbot](https://github.com/thereal-atom/tempbot-web) is a bot to help you manage you temporary roles, channels and more as well as tickets. Also includes a fully functional web dashboard to view and manage your tickets and temp roles. 
+
 
 ## Past projects
-- [Unichat](https://github.com/thereal-atom/unichat), a simple messanger clone using premade chat engine as well as firebase and Googles OAuth.
-- [Generics](https://github.com/thereal-atom/generics), a website for a band with stripe payement processing, built with Express, NodeJS, EJS, CSS and HTML
-- [Advice](https://github.com/thereal-atom/advice), a website which fetches data from an api to shows random quotes, built using React and ChartJS.
-- [Covid19 Tracker](https://github.com/thereal-atom/covid19tracker), website which tracks stats for Covid19 by fetching data from an API and displays them in a chart, built using Javascript, React and CSS
+- [AlertBot](https://github.com/thereal-atom/alertbot) is a website to make alerting easier and seemless
+- [openai.js](https://github.com/thereal-atom/openai.js) a simplified nodejs wrapper for the openAI API using the GPT-3 model
 - [papr](https://github.com/thereal-atom/papr) is a website for paper trading (fake money trading) crypto currency to help new trades learn 
 
 ## Technologies
 
-- Backend web development using JavaScript, MongoDB, Express and Firebase 
-- Fronend web development using HTML, React and CSS 
+- Backend web development using JavaScript, Typescript, MongoDB, and Express 
+- Fronend web development using Svelte, Routify, React and Tailwindcss 
 - General backend development using NodeJS 
 - Discord bot development using DiscordJS
 
