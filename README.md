@@ -1,37 +1,32 @@
 # Hey there, I'm Atomツ
 ### I'm a 15 year old full stack developer
-- 👋 I'm currently working on my discord bot, proton with a fully functional web dashboard
+- 👋 I'm currently working on a couple discord bots: proton, tempbot, alertbot, a discord api wrapper in js/ts, custom web framework in js
 - 👀 I’m interested in Space, engineering, coding of course
-- 🌱 I’m currently learning Svelte, typescript, go and assembly, i want to learn python, rust c/c++, c#, Java and R.
+- 🌱 I’m currently learning Svelte, typescript and rust, i want to learn, go, c/c++ and assembly.
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
-[Website](https://atom-dev.me) for my portfolio: https://atom-dev.me
+[Website](https://atom-dev.me) for my portfolio (outdated): https://atom-dev.me
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
-> - [Stackoverflow:](https://stackoverflow.com/users/16217490/atom) atom
-> - [Instagram:](https://www.instagram.com/thereal_atom) thereal_atom
 > - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
 
-[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-reddit.svg" />](https://www.reddit.com/user/thereal-atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-twitter.svg" />](https://twitter.com/thereal_atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-youtube-play-button.svg" />](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ)
-[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-stack-overflow.svg" />](https://stackoverflow.com/users/16217490/atom)
-[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-pinterest.svg" />](https://pinterest.com/therealatom)
-[<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-instagram.svg" />](https://instagram.com/thereal_atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-discord.svg" />](https://discord.gg/eVVc4jJfDa)
 <br />
 
 ## Current Projects 
 - Im currently working on my discord bot , [proton](https://github.com/thereal-atom/proton), which is a multi-purpose discord bot with a fully functional web dashboard.
-- Im also working on [Wallpaper Engine List](https://github.com/thereal-atom/wallpaperenginelist), website with a list of the top wallpapers in any genre
-- [Tempbot](https://github.com/thereal-atom/tempbot-web) is a bot to help you manage you temporary roles, channels and more as well as tickets. Also includes a fully functional web dashboard to view and manage your tickets and temp roles. 
+- Im also working on [AlertBot](https://github.com/thereal-atom/alertbot) - a discord bot with a web dashboard to make alerting easy and seemless
+- [Tempbot](https://github.com/thereal-atom/tempbot-web) is a bot to help you manage you temporary roles, channels and more as well as tickets and self roles. Also includes a fully functional web dashboard to view server activity, manage tickets, config self roles and more. 
 
 
 ## Past projects
-- [AlertBot](https://github.com/thereal-atom/alertbot) is a website to make alerting easier and seemless
+- 
 - [openai.js](https://github.com/thereal-atom/openai.js) a simplified nodejs wrapper for the openAI API using the GPT-3 model
 - [papr](https://github.com/thereal-atom/papr) is a website for paper trading (fake money trading) crypto currency to help new trades learn 
+- [os](https://github.com/thereal-atom/os) super basic 64-bit operating system built with c and assembly
 
 ## Technologies
 
@@ -46,11 +41,9 @@
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/react-original.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/nodejs-plain.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/mongodb-plain.svg" />
-<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/jquery-plain.svg" />
-<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/firebase-plain.svg" />
 <img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/express-original.svg" /><br /><br />
 
-![thereal-atom's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereal-atom&show_icons=true&theme=tokyonight)<br /><br />
+![thereal-atom's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereal-atom&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereal-atom&layout=compact&theme=tokyonight)
 
 
