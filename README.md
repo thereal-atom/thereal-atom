@@ -1,12 +1,12 @@
 # Hey there, I'm Atomツ
 ### I'm a 15 year old full stack developer
-- 👋 I'm currently working on a couple discord bots: proton, tempbot, alertbot, a discord api wrapper in js/ts, custom web framework in js
+- 👋 I'm currently working on a couple discord bots: proton, tempbot, alertbot
 - 👀 I’m interested in Space, engineering, coding of course
 - 🌱 I’m currently learning Svelte, typescript and rust, i want to learn, go, c/c++ and assembly.
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
-[Website](https://atom-dev.me) for my portfolio (outdated): https://atom-dev.me
+[Website](https://atom-dev.me) for my portfolio: https://atom-dev.me
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
 > - [Youtube:](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ) atom
 > - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
