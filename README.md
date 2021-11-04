@@ -23,7 +23,6 @@
 
 
 ## Past projects
-- 
 - [openai.js](https://github.com/thereal-atom/openai.js) a simplified nodejs wrapper for the openAI API using the GPT-3 model
 - [papr](https://github.com/thereal-atom/papr) is a website for paper trading (fake money trading) crypto currency to help new trades learn 
 - [os](https://github.com/thereal-atom/os) super basic 64-bit operating system built with c and assembly
