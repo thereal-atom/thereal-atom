@@ -2,7 +2,7 @@
 ### I'm a 15 year old full stack developer
 - 👋 I'm currently working on a couple (secret) projects: discord bot, cloud computing service
 - 👀 I’m interested in Space, engineering and coding of course
-- 🌱 I work with Svelte and Typescript, Docker, GCP and I'm learning Rust.
+- 🌱 I work with Svelte, Typescript, Docker, GCP and I'm learning Rust.
 - 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
 
 ## Connect with me:
