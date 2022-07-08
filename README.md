@@ -1,14 +1,14 @@
 # Hey there, I'm Atomツ
 ### I'm a 15 year old full stack developer
-- 👋 I'm currently working on a couple (secret) projects: discord bot, cloud computing service
+- 👋 I'm currently working on [Alertbot](https://github.com/alertbotxyz]
 - 👀 I’m interested in Space, engineering and coding of course
 - 🌱 I work with Svelte, Typescript, Docker, GCP and I'm learning Rust.
-- 📫 The best way to reach me is on discord in my [server](https://discord.gg/eVVc4jJfDa) or dms - Atomツ#6969
+- 📫 The best way to reach me is on discord oscarッ#0671
 
 ## Connect with me:
 [Website](https://atom-dev.me) for my portfolio: https://atom-dev.me
 > - [Twitter:](https://twitter.com/thereal_atom) thereal_atom
-> - [Discord:](https://discordapp.com/users/313202630023315487/) Atomツ#6969
+> - Discord: oscarッ#0671
 
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-twitter.svg" />](https://twitter.com/thereal_atom)
 [<img align="left" alt="icon" width="22px" src="https://github.com/thereal-atom/thereal-atom/blob/main/Icons/icons8-youtube-play-button.svg" />](https://www.youtube.com/channel/UCWyWlGlfkzMuCREa4WLt3LQ)
@@ -16,10 +16,8 @@
 <br />
 
 ## Current Projects 
-I'm working on some kinda secret projects
-- [Rust KVS](https://github.com/thereal-atom/rustkv) A very simple in-memory key value store (like redis) written in Rust with focus on good documentation and ease of use
-- A discord bot (will have alot of features, focused on moderation and logging)
-- A cloud computing service (for deploying websites, Discord bots, APIs and more, focused on simplicity)
+I'm currently focusing on one project
+- [Alertbot](https://github.com/alertbotxyz) Alertbot allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
 
 ## Past projects
