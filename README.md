@@ -17,7 +17,7 @@
 
 ## Current Projects 
 I'm currently focusing on one project
-- [Alertbot](https://github.com/alertbotxyz) Alertbot allows you to get alerts out to your users with maximum simplicity and minimum latency.
+- [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
 
 ## Past projects
