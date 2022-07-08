@@ -1,6 +1,6 @@
 # Hey there, I'm Atomツ
 ### I'm a 15 year old full stack developer
-- 👋 I'm currently working on [Alertbot](https://github.com/alertbotxyz]
+- 👋 I'm currently working on [Alertbot](https://github.com/alertbotxyz)
 - 👀 I’m interested in Space, engineering and coding of course
 - 🌱 I work with Svelte, Typescript, Docker, GCP and I'm learning Rust.
 - 📫 The best way to reach me is on discord oscarッ#0671
