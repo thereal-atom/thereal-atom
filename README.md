@@ -1,4 +1,4 @@
-# Hey there, I'm Atomツ
+# Hey there, I'm oscarツ
 ### I'm a 15 year old full stack web developer
 - 👋 I'm currently working on [Promess](https://github.com/promesstech)
 - 👀 I’m interested in Space, engineering and coding of course
