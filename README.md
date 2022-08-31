@@ -2,12 +2,12 @@
 ### I'm a 15 year old full stack web developer
 - 👋 I'm currently working on [Promess](https://github.com/promesstech)
 - 👀 I’m interested in Space, engineering and coding of course
-- 🌱 I work with Svelte, Typescript, Docker, GCP and I'm learning Rust.
+- 🌱 I work with Svelte(kit), Typescript, GCP and I'm learning Rust.
 - 🔮 In the future I want to learn: Astro, trpc, PostgreSQL 
-- 📫 The best way to reach me is on discord oscarッ#0671
+- 📫 The best way to reach me is on discord oscarッ#0671 or on twitter @oscarfalll
 
 ## Connect with me:
-> - My portfolio [website](https://oscarfal.netlify.app)
+> - [Porfolio](https://oscarfal.netlify.app)
 > - [Twitter:](https://twitter.com/oscarfalll) @oscarfalll
 > - Discord: oscarッ#0671
 
@@ -29,11 +29,11 @@
 ## Technologies
 
 - Backend web development using **Typescript** and **Express** 
-- Database administration wtih **MongoDB**, **Redis**, **Planetscale**, **TimescaleDB** and **prisma**
-- Fronend web development using **Svelte**, **SvelteKit**, **Routify**, **React** and **Tailwindcss** 
+- Database administration wtih **MongoDB**, **Redis**, **Planetscale** and **prisma**
+- Fronend web development using **Svelte(Kit)**, **Routify**, **React** and **Tailwindcss** 
 - General backend development using **NodeJS**
 - Discord bot development using **discord.js**
-- (limited) Systems programming with **Rust** and **C++ with arduino**
+- (limited) Systems programming with **Rust** and **C++ with Arduino**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,rust,docker,express,gcp,git,mongodb,nodejs,prisma,redis,svelte,tailwind,bots)](https://skillicons.dev)
 
