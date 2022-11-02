@@ -1,5 +1,5 @@
 # Hey there, I'm oscarツ
-### I'm a 15 year old full stack web developer
+### I'm a 16 year old full stack web developer
 - 👋 I'm currently working on [My Programming Language](https://github.com/oscars-programming-language)
 - 👀 I’m interested in Space, engineering and coding of course
 - 🌱 I work with Svelte(kit), Typescript, GCP and I'm learning Rust.
@@ -11,7 +11,7 @@
 > - [Twitter:](https://twitter.com/oscarfalll) @oscarfalll
 > - Discord: oscarッ#0671
 > - Email: oscarfal2006@gmail.com
-> - [Hashnode:](oscarfal.hashnode.dev) oscarfal
+> - [Hashnode:](https://oscarfal.hashnode.dev) oscarfal
 
 <p align="left"> <a href="https://www.github.com/thereal-atom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://oscarfal.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oscarfalll" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <a href="https://www.twitter.com/oscarfalll" target="_blank" rel="noreferrer"><img
