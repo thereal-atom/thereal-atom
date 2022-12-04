@@ -1,10 +1,10 @@
 # Hey there, I'm oscarツ
 ### I'm a 16 year old full stack web developer
-- 👋 I'm currently working on [My Programming Language](https://github.com/oscars-programming-language)
+- 👋 I'm currently working on my startup [Promess](https://github.com/promesstech)
 - 👀 I’m interested in Space, engineering and coding of course
 - 🌱 I work with Svelte(kit), Typescript, GCP and I'm learning Rust.
-- 🔮 In the future I want to learn: Astro, trpc, PostgreSQL 
-- 📫 The best way to reach me is on discord oscarッ#0671 or on twitter @oscarfalll
+- 🔮 In the future I want to learn: Astro, trpc, NextJS and PostgreSQL 
+- 📫 The best way to reach me is on discord oscarッ#0671 or on twitter [@oscarfalll](https://twitter.com/oscarfalll)
 
 ## Connect with me:
 > - [Porfolio](https://oscarfal.netlify.app) website
@@ -21,8 +21,7 @@
 <br />
 
 ## Current Projects
-- My own [Programming Language](https://github.com/prog-lang)
-- [Neural Network Implementation](https://github.com/thereal-atom/neural-network-implementation) from scratch in Rust.
+- [Promess](https://github.com/promesstech) - A project management app for your SaaS business
 
 ## Past projects
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API using the GPT-3 model
@@ -31,6 +30,8 @@
 - [papr](https://github.com/thereal-atom/papr) is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more.
 - [Promess](https://github.com/promesstech) - Project management for your SaaS business. All your work in one place: tasks, chats, revenue, calendar, infrastructure, database, logs, anlytics, metrics and more.
 - [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
+- My own [Programming Language](https://github.com/prog-lang)
+- [Neural Network Implementation](https://github.com/thereal-atom/neural-network-implementation) from scratch in Rust.
 
 ## Skills
 
