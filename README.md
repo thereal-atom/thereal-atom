@@ -35,12 +35,13 @@
 
 ## Skills
 
-- Backend web development using **Typescript** and **Express** 
-- Database administration wtih **MongoDB**, **Redis**, **Planetscale** and **prisma**
-- Fronend web development using **Svelte(Kit)**, **Routify**, **React** and **Tailwindcss** 
+- Backend web development using **Typescript**, **express** and **trpc**
+- DevOps with **GCP**, **Railway** and **Planetscale**
+- Database administration wtih **MongoDB**, **Redis** and **prisma**
+- Fronend web development using **Svelte(Kit)**, **React** and **Tailwind** 
 - General backend development using **NodeJS**
 - Discord bot development using **discord.js**
-- (limited) Systems programming with **Rust** and **C++ with Arduino**
+- Systems programming with **Rust**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,rust,docker,express,gcp,git,mongodb,nodejs,prisma,redis,svelte,tailwind,bots)](https://skillicons.dev)
 
