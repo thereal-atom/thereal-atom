@@ -9,7 +9,7 @@
 ## Connect with me:
 > - [Porfolio](https://oscarfal.netlify.app) website
 > - [Twitter:](https://twitter.com/oscarfalll) @oscarfalll
-> - Discord: oscarッ#0671
+> - Discord: oscarッ#8530
 > - Email: oscarfal2006@gmail.com
 > - [Hashnode:](https://oscarfal.hashnode.dev) oscarfal
 
