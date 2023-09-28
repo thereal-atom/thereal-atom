@@ -1,5 +1,5 @@
 # Hey there, I'm oscarツ
-### I'm a 16 year old full stack web developer
+### I'm a 17 year old full stack web developer
 - 👋 I'm currently working on my startup [Promess](https://github.com/promesstech)
 - 👀 I’m interested in Space, engineering and coding of course
 - 🌱 I work with Svelte(kit), Typescript, GCP and I'm learning Rust.
