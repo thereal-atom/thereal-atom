@@ -22,15 +22,13 @@
 
 ## Current Projects
 - [Promess](https://github.com/promesstech) - A project management app for your SaaS business
+- [DocDepot](https://github.com/thereal-atom/docdepot) - A way for you to upload your markdown files
 
 ## Past projects
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API using the GPT-3 model
-- [Tempbot](https://github.com/thereal-atom/tempbot-bot) allows you to create and manage temporary roles, channels and vcs as well as self roles and tickets 
 - [os](https://github.com/thereal-atom/os) super basic 64-bit operating system built with c and assembly
 - [papr](https://github.com/thereal-atom/papr) is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more.
-- [Promess](https://github.com/promesstech) - Project management for your SaaS business. All your work in one place: tasks, chats, revenue, calendar, infrastructure, database, logs, anlytics, metrics and more.
 - [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
-- My own [Programming Language](https://github.com/prog-lang)
 - [Neural Network Implementation](https://github.com/thereal-atom/neural-network-implementation) from scratch in Rust.
 
 ## Skills
