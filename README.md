@@ -20,8 +20,8 @@
 <br />
 
 ## Current Projects
-- [Promess](https://github.com/promesstech) - A project management app for your SaaS business
 - [DocDepot](https://github.com/thereal-atom/docdepot) - A way for you to upload your markdown files
+- [Promess](https://github.com/promesstech) - A project management app for your SaaS business
 
 ## Past projects
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API using the GPT-3 model
@@ -32,11 +32,11 @@
 
 ## Skills
 
-- Backend web development using **Typescript**, **express** and **trpc**
-- DevOps with **GCP**, **Railway** and **Planetscale**
-- Database administration wtih **MongoDB**, **Redis** and **prisma**
+- Backend web development using **Typescript**, **trpc**, **express** and **elysia**
+- DevOps with **GCP**, **Railway**, **fly.io**, and **Supabase**
+- Database administration wtih **MongoDB**, **Redis**, **Planetscale**, **Turso**, and **prisma**
 - Fronend web development using **Svelte(Kit)**, **React** and **Tailwind** 
-- General backend development using **NodeJS**
+- General backend development using **NodeJS** and **bun**
 - Discord bot development using **discord.js**
 - Systems programming with **Rust**
 
