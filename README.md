@@ -2,7 +2,7 @@
 ### I'm a Full Stack Web Developer and Entrepreneur
 - 👋 I'm currently focusing on freelancing
 - 👀 I’m interested in Space, engineering and coding of course
-- 🌱 I work with Svelte(kit), Typescript, Bun, Supabase and more.
+- 🌱 I work with Sveltekit, Typescript, Bun, Supabase, Nodejs and more.
 - 📫 The best way to reach me is on discord: `oscarfal` or on twitter: [@oscarfalll](https://twitter.com/oscarfalll)
 
 ## Connect with me:
