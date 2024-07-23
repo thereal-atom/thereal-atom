@@ -9,8 +9,6 @@
 > - Personal Site: [oscarfal.vercela.app](https://oscarfal.vercel.app)
 > - Twitter: [@oscarfalll](https://twitter.com/oscarfalll)
 > - Discord: oscarfal
-> - Github: [thereal-atom](https://github.com/thereal-atom)
-> - Warpcast: [@oscarfal](https://warpcast.com/oscarfal)
 
 ## Past projects
 - [The Web Dev Agency](https://github.com/thereal-atom/webdevagency) - Have a high-quality website made for a low budget
@@ -18,18 +16,12 @@
 - [Promess](https://github.com/promesstech) - A project management app for your SaaS business
 - [SaaSalytics](https://saasalytics.vercel.app) - An AI-driven dashboard for your business data
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API using the GPT-3 model
-- [os](https://github.com/thereal-atom/os) super basic 64-bit operating system built with c and assembly
 - [papr](https://github.com/thereal-atom/papr) is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more.
 - [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
-- [Neural Network Implementation](https://github.com/thereal-atom/neural-network-implementation) from scratch in Rust.
 
 ## Skills
-- Backend web development using **Typescript**, **Bun**, **Express.js**, **ElysiaJS**, and **tRPC**
-- DevOps with **GCP**, **Nginx**, and **Supabase**
-- Database administration wtih **MongoDB**, **Redis**, **Planetscale**, **Turso**, and **Prisma**
-- Fronend web development using **Svelte(Kit)**, **NextJS** and **Tailwind** 
-- Discord bot development using **discord.js**
-- Systems programming with **Rust**
+- Backend web development using (nodejs, typescript, bun, expressjs, supabase)
+- Fronend web development using (html, sveltekit, tailwind, nextjs)
 
 ## My GitHub Stats
 
