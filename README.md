@@ -8,7 +8,7 @@
 - 📫 The best way to reach me is on discord: `oscarfal` or on twitter: [@oscarfalll](https://twitter.com/oscarfalll)
 
 ## Connect with me:
-> - Personal Site: [oscarfal.vercela.app](https://oscarfal.vercel.app)
+> - Personal Site: [oscarfal.vercel.app](https://oscarfal.vercel.app)
 > - Twitter: [@oscarfalll](https://twitter.com/oscarfalll)
 > - Discord: oscarfal
 
