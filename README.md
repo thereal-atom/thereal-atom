@@ -4,13 +4,14 @@
 
 - 👋 I'm open to opportunities!
 - 👀 I’m interested in aerospace, engineering, coding, photography and mountaineering 
-- 🌱 I work with Sveltekit, Typescript, Bun, Supabase, Nodejs and more.
-- 📫 The best way to reach me is on discord: `oscarfal` or on twitter: [@oscarfalll](https://twitter.com/oscarfalll)
+- 🌱 I work with Nodejs, Typescript, Svelte, Bun, Supabase, Rust, React and more.
+- 📫Reach me on discord: `oscarfal`, twitter: [@oscarfalll](https://twitter.com/oscarfalll), telegram: [@oscarfal](https://t.me/oscarfal)
 
 ## Connect with me:
-> - Personal Site: [oscarfal.vercel.app](https://oscarfal.vercel.app)
 > - Twitter: [@oscarfalll](https://twitter.com/oscarfalll)
+> - Telegram: [@oscarfal](https://t.me/oscarfal)
 > - Discord: oscarfal
+> - Personal Site: [oscarfal.vercel.app](https://oscarfal.vercel.app)
 
 ## Past projects
 - [Captured Above](https://capturedabove-website.vercel.app) - Website for my drone videography business
