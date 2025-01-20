@@ -1,11 +1,11 @@
 # Hey there, I'm oscarツ
 
-### I'm a self-taught full stack web developer from 📍London with over 4 years of experience.
+### I'm a self-taught full-stack web dev from 📍London with over 4 years of experience.
 
 - 👋 I'm open to opportunities!
 - 👀 I’m interested in aerospace, engineering, coding, photography and mountaineering 
-- 🌱 I work with Nodejs, Typescript, Svelte, Bun, Supabase, Rust, React and more.
-- 📫Reach me on discord: `oscarfal`, twitter: [@oscarfalll](https://twitter.com/oscarfalll), telegram: [@oscarfal](https://t.me/oscarfal)
+- 🌱 I work with Nodejs, Typescript, Svelte/Kit, Bun, Supabase, Rust, React/Next, Tailwind and more.
+- 📫 Reach me on discord: `oscarfal`, twitter: [@oscarfalll](https://twitter.com/oscarfalll), telegram: [@oscarfal](https://t.me/oscarfal)
 
 ## Connect with me:
 > - Twitter: [@oscarfalll](https://twitter.com/oscarfalll)
@@ -26,7 +26,7 @@
 ## Skills
 - Backend web development using (nodejs, typescript, bun, expressjs, supabase)
 - Fronend web development using (html, sveltekit, tailwind, nextjs)
-- Substantial knowledge about systems programming, machine learning, blockchain and more
+- Blockchain development using (solana web3.js, rust/anchor, raydium protocol)
 
 ## My GitHub Stats
 
