@@ -14,6 +14,7 @@
 > - Personal Site: [oscarfal.vercel.app](https://oscarfal.vercel.app)
 
 ## Past projects
+- [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - A way for me to interact with my obsidian notes via an LLM
 - [Captured Above](https://capturedabove-website.vercel.app) - Website for my drone videography business
 - [The Web Dev Agency](https://github.com/thereal-atom/webdevagency) - Have a high-quality website made for a low budget
 - [DocDepot](https://github.com/thereal-atom/docdepot) - A way for you to upload your markdown files
@@ -24,9 +25,10 @@
 - [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
 ## Skills
-- Backend web development using (nodejs, typescript, bun, expressjs, supabase)
+- Backend web development using (nodejs, typescript, bun, expressjs, supabase, trpc)
 - Fronend web development using (html, sveltekit, tailwind, nextjs)
-- Blockchain development using (solana web3.js, rust/anchor, raydium protocol)
+- Blockchain development using (solana web3.js, rust/anchor, raydium, kamino, jito, jupiter)
+- Generate AI using (google generative ai SDK, gemini, text embedding, RAG, prompt engineering)
 
 ## My GitHub Stats
 
