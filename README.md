@@ -15,14 +15,14 @@
 
 ## Past projects
 - [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - A way for me to interact with my obsidian notes via an LLM
+- [arb bot](https://github.com/thereal-atom/arb-bot) - Solana arbitarge bot
+- [project liquid](https://github.com/thereal-atom/project-liquid) - Solana UI for delta neutral yield farming
+- [SaaSalytics](https://saasalytics.vercel.app) - An AI-driven dashboard for your business data
 - [Captured Above](https://capturedabove-website.vercel.app) - Website for my drone videography business
 - [The Web Dev Agency](https://github.com/thereal-atom/webdevagency) - Have a high-quality website made for a low budget
 - [DocDepot](https://github.com/thereal-atom/docdepot) - A way for you to upload your markdown files
 - [Promess](https://github.com/promesstech) - A project management app for your SaaS business
-- [SaaSalytics](https://saasalytics.vercel.app) - An AI-driven dashboard for your business data
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API using the GPT-3 model
-- [papr](https://github.com/thereal-atom/papr) is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more.
-- [Alertbot](https://github.com/alertbotxyz) allows you to get alerts out to your users with maximum simplicity and minimum latency.
 
 ## Skills
 - Backend web development using (nodejs, typescript, bun, expressjs, supabase, trpc)
