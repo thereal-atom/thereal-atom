@@ -28,7 +28,7 @@
 - Backend web development using (nodejs, typescript, bun, expressjs, supabase, trpc)
 - Fronend web development using (html, sveltekit, tailwind, nextjs)
 - Blockchain development using (solana web3.js, rust/anchor, raydium, kamino, jito, jupiter)
-- Generate AI using (google generative ai SDK, gemini, text embedding, RAG, prompt engineering)
+- Generative AI using (google generative ai SDK, gemini, text embedding, RAG, prompt engineering)
 
 ## My GitHub Stats
 
