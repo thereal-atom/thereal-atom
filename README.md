@@ -2,7 +2,7 @@
 
 ### I'm a self-taught full-stack web dev from 📍London with over 4 years of experience.
 
-- 👋 I'm open to opportunities!
+- 👋 I work at CoLoop AI
 - 👀 I’m interested in aerospace, engineering, coding, photography and mountaineering 
 - 🌱 I work with Nodejs, Typescript, Svelte/Kit, Bun, Supabase, Rust, React/Next, Tailwind and more.
 - 📫 Reach me on discord: `oscarfal`, twitter: [@oscarfalll](https://twitter.com/oscarfalll), telegram: [@oscarfal](https://t.me/oscarfal)
