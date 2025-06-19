@@ -28,8 +28,4 @@
 - Backend web development using (nodejs, typescript, bun, expressjs, supabase, trpc)
 - Fronend web development using (html, sveltekit, tailwind, nextjs)
 - Blockchain development using (solana web3.js, rust/anchor, raydium, kamino, jito, jupiter)
-- Generative AI using (google generative ai SDK, gemini, text embedding, RAG, prompt engineering)
-
-## My GitHub Stats
-
-<a href="http://www.github.com/thereal-atom"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thereal-atom&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Generative AI using (AI SDK, cohere embeddings, RAG, prompt engineering)
