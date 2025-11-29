@@ -19,8 +19,8 @@
 - [project liquid](https://github.com/thereal-atom/project-liquid) - solana UI for delta neutral yield farming
 - [SaaSalytics](https://saasalytics.vercel.app) - an AI-driven dashboard for your business data
 - [Captured Above](https://capturedabove-website.vercel.app) - website for my drone videography business
-- [DocDepot](https://github.com/thereal-atom/docdepot) - a way for you to upload and distribute your markdown files
-- [Promess](https://github.com/promesstech) - a project management app for your SaaS business
+- [DocDepot](https://docdepot.vercel.app) - a way for you to upload and distribute your markdown files
+- [Promess](https://promess.vercel.app) - a project management app for your SaaS business
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API when it first came out (I made this when I was 15 😳)
 
 ## Skills
