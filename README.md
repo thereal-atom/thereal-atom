@@ -16,15 +16,16 @@
 - [omisphere](https://github.com/omisphere/omisphere) - turn every conversation into part of a collective consciousness, helping people understand themselves and the world better through unbiased, everyday interactions. built at the [LFH x Bolt.new hackathon](https://www.linkedin.com/posts/londonfounderhouse_exciting-news-were-hosting-our-first-ever-activity-7338563106454827008-0Vep) 
 - [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - a way for me to interact with my obsidian notes via an LLM (this got me hired at coloop)
 - [arb bot](https://github.com/thereal-atom/arb-bot) - solana arbitarge bot
-- [project liquid](https://github.com/thereal-atom/project-liquid) - solana UI for delta neutral yield farming
+- [project liquid](https://github.com/thereal-atom/project-liquid) - webapp for delta neutral yield farming on the Solana blockchain
 - [SaaSalytics](https://saasalytics.vercel.app) - an AI-driven dashboard for your business data
 - [Captured Above](https://capturedabove-website.vercel.app) - website for my drone videography business
 - [DocDepot](https://docdepot.vercel.app) - a way for you to upload and distribute your markdown files
 - [Promess](https://promess.vercel.app) - a project management app for your SaaS business
-- [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API when it first came out (I made this when I was 15 😳)
+- [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API when it first came out (I made this when I was 15)
 
 ## Skills
-- genai w/ custom agent frameworks, qdrant, agentic RAG, prompt engineering
-- backend web dev w/ nodejs, typescript, bun, expressjs, supabase, trpc
-- frontend web dev w/ html, sveltekit, tailwind, nextjs, shadcn
-- blockchain + defi dev w/ solana web3.js, rust/anchor, raydium, kamino, jito, jupiter
+- **genai** - custom agent frameworks, qdrant, agentic RAG, ai sdk
+- **backend web dev** - nodejs/bun + ts, temporal + inngest, trpc
+- **infra** - aws (sqs, ec2, lambdas, cloudwatch, etc), cdk, railway, vercel
+- **frontend web dev** - react, next, svelte, tailwind, shadcn
+- **blockchain & defi dev** - solana web3.js, rust/anchor, raydium, kamino, jito, jupiter
