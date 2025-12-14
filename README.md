@@ -11,6 +11,7 @@
 
 - i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more
 - running bouldering events in London @ [out venturing](https://luma.com/outventuring)
+- helping build @ [fanks](https://fanks.co)
 
 ## Past projects
 - [omisphere](https://github.com/omisphere/omisphere) - turn every conversation into part of a collective consciousness, helping people understand themselves and the world better through unbiased, everyday interactions. built at the [LFH x Bolt.new hackathon](https://www.linkedin.com/posts/londonfounderhouse_exciting-news-were-hosting-our-first-ever-activity-7338563106454827008-0Vep) 
