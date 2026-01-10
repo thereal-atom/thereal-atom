@@ -1,11 +1,11 @@
 # hey there, i'm oscarツ
 
-### i'm a self-taught full-stack web dev from 📍London with over 4 years of experience.
+### i'm a self-taught software engineer from 📍London with over 5 years of experience.
 
-- 👋 i work at [CoLoop AI](https://coloop.ai) (YC S21)
-- 👀 i’m interested in aerospace, engineering, coding, rock climbing and bouldering, photography and mountaineering 
+- 👋 i'm currently a full stack web dev @ [CoLoop AI](https://coloop.ai) (YC S21)
+- 👀 i’m interested in AI, aerospace, bouldering and travelling 
 - 🌱 i work with node/bun, react/next, ts, svelte, rust, python, tailwind and more
-- 📫 reach me on twitter: [@oscarfalll](https://twitter.com/oscarfalll), or visit my personal site: [oscar.falemara.com](https://oscar.falemara.com)
+- 📫 reach me on twitter: [@oscarfalll](https://twitter.com/oscarfalll), or visit my personal site: [oscarama.dev](https://oscarama.dev)
 
 ## Current
 
@@ -26,8 +26,8 @@
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API when it first came out (I made this when I was 15)
 
 ## Skills
-- **genai** - custom agent frameworks, qdrant, agentic RAG, ai sdk
-- **backend web dev** - nodejs/bun + ts, temporal + inngest, trpc
+- **genai** - custom agent frameworks, multi agent systems, agentic RAG, ai sdk
+- **backend web dev** - node/bun + ts, temporal/inngest, trpc
 - **infra** - aws (sqs, ec2, lambdas, cloudwatch, etc), cdk, railway, vercel
 - **frontend web dev** - react, next, svelte, tailwind, shadcn
-- **blockchain & defi dev** - solana web3.js, rust/anchor, raydium, kamino, jito, jupiter
+- **blockchain & defi dev** - solana web3.js, rust/anchor, raydium, kamino, jito, jupiter, helius
