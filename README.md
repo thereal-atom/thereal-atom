@@ -11,10 +11,11 @@
 
 - i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more
 - running bouldering events in London @ [out venturing](https://luma.com/outventuring)
-- helping build @ [fanks](https://fanks.co)
-- community & events at [events.coloop.ai](https://events.coloop.ai)
+- community & events @ [events.coloop.ai](https://events.coloop.ai)
+- helping out w/ events @ [ai demo nights](https://aidemonights.ajt.dev/)
 
 ## Past projects
+- helping build @ [fanks](https://fanks.co)
 - [omisphere](https://github.com/omisphere/omisphere) - turn every conversation into part of a collective consciousness, helping people understand themselves and the world better through unbiased, everyday interactions. built at the [LFH x Bolt.new hackathon](https://www.linkedin.com/posts/londonfounderhouse_exciting-news-were-hosting-our-first-ever-activity-7338563106454827008-0Vep) 
 - [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - a way for me to interact with my obsidian notes via an LLM (this got me hired at coloop)
 - [arb bot](https://github.com/thereal-atom/arb-bot) - solana arbitarge bot
@@ -26,8 +27,8 @@
 - [openai.js](https://github.com/thereal-atom/openai.js) a tiny nodejs wrapper for the OpenAI API when it first came out (I made this when I was 15)
 
 ## Skills
-- **genai** - custom agent frameworks, multi agent systems, agentic RAG, ai sdk
-- **backend web dev** - node/bun + ts, temporal/inngest, trpc
+- **genai** - multi agent systems, agentic RAG, ai sdk, stt
+- **backend web dev** - node/bun + ts, temporal/inngest, trpc, redis
 - **infra** - aws (sqs, ec2, lambdas, cloudwatch, etc), cdk, railway, vercel
 - **frontend web dev** - react, next, svelte, tailwind, shadcn
 - **blockchain & defi dev** - solana web3.js, rust/anchor, raydium, kamino, jito, jupiter, helius
