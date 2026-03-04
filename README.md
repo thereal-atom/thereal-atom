@@ -15,7 +15,7 @@
 - helping out w/ events @ [ai demo nights](https://aidemonights.ajt.dev/)
 
 ## Past projects
-- helping build @ [fanks](https://fanks.co)
+- helping build better community-brand matching @ [fanks](https://fanks.co)
 - [omisphere](https://github.com/omisphere/omisphere) - turn every conversation into part of a collective consciousness, helping people understand themselves and the world better through unbiased, everyday interactions. built at the [LFH x Bolt.new hackathon](https://www.linkedin.com/posts/londonfounderhouse_exciting-news-were-hosting-our-first-ever-activity-7338563106454827008-0Vep) 
 - [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - a way for me to interact with my obsidian notes via an LLM (this got me hired at coloop)
 - [arb bot](https://github.com/thereal-atom/arb-bot) - solana arbitarge bot
