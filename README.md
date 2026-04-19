@@ -2,16 +2,15 @@
 
 ### i'm a self-taught software engineer from 📍London with over 5 years of experience.
 
-- 👋 i'm currently a full stack web dev @ [CoLoop AI](https://coloop.ai) (YC S21)
+- 👋 i'm currently a full stack web dev @ [CoLoop AI](https://coloop.ai) (YC S21), and I run [events](https://events.oscarama.dev) across the tech & AI community in London
 - 👀 i’m interested in AI, aerospace, bouldering and travelling 
 - 🌱 i work with node/bun, react/next, ts, svelte, rust, python, tailwind and more
 - 📫 reach me on twitter: [@oscarfalll](https://twitter.com/oscarfalll), or visit my personal site: [oscarama.dev](https://oscarama.dev)
 
 ## Current
 
-- i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more
+- i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more. I also run our [community events](https://events.coloop.ai) like coworking and the coloop sports club 
 - running bouldering events in London @ [out venturing](https://luma.com/outventuring)
-- community & events @ [events.coloop.ai](https://events.coloop.ai)
 - helping out w/ events @ [ai demo nights](https://aidemonights.ajt.dev/)
 
 ## Past projects
