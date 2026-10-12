@@ -7,13 +7,15 @@
 - 🌱 i work with node/bun, react/next, ts, svelte, rust, python, tailwind and more
 - 📫 reach me on twitter: [@oscarfalll](https://twitter.com/oscarfalll), or visit my personal site: [oscarama.dev](https://oscarama.dev)
 
-## Current
+## now
 
-- i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more. I also run our [community events](https://events.coloop.ai) like coworking and the coloop sports club 
-- running bouldering events in London @ [out venturing](https://luma.com/outventuring)
+- i'm an AI and software eng @ [coloop ai](https://coloop.ai) working across the stack including frontend, backend, ai, product and more.
+- at coloop, I also run our [community events](https://events.coloop.ai) like coworking and the coloop sports club
+- running [OUTPOST](https://outpostcrew.co), a community for people building at the frontier. over 5k members and hosted 40+ events for 2k+ people. worked with OpenAI, Vercel, Daytona, SpaceXAI, Corgi and many more
+
+## prev
 - helping out w/ events @ [ai demo nights](https://aidemonights.ajt.dev/)
-
-## Past projects
+- running bouldering events in London @ [out venturing](https://luma.com/outventuring)
 - helping build better community-brand matching @ [fanks](https://fanks.co)
 - [omisphere](https://github.com/omisphere/omisphere) - turn every conversation into part of a collective consciousness, helping people understand themselves and the world better through unbiased, everyday interactions. built at the [LFH x Bolt.new hackathon](https://www.linkedin.com/posts/londonfounderhouse_exciting-news-were-hosting-our-first-ever-activity-7338563106454827008-0Vep) 
 - [Notes AI](https://github.com/thereal-atom/obsidian-notes-ai) - a way for me to interact with my obsidian notes via an LLM (this got me hired at coloop)
